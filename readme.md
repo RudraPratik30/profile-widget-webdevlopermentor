@@ -35,4 +35,4 @@ You will be prompted to enter Title, Github repoitory URL, Live preview URL (can
 ## Here is the target:
 <center><img src="normal-state.png"></center>
 
-## <a href="#">Check it out!</a> what I have made.
+## <a href="https://rudrapratik30.github.io/profile-widget-webdevlopermentor/">Check it out!</a> what I have made.
